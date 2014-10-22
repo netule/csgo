@@ -15,6 +15,13 @@ Extract the .zip file and place the .cfg files in the following directory:
 
 Watch this repository so that you will be notified via email about any changes.
 
+Crosshair
+---------
+
+Example of what the crosshair looks like in-game:
+
+![netule crosshair](crosshair.jpg)
+
 Game Launch Options
 -------------------
 
