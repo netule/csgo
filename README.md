@@ -22,6 +22,8 @@ Example of what the crosshair looks like in-game:
 
 ![netule crosshair](crosshair.jpg)
 
+**TODO: needs an updated screenshot**
+
 Game Launch Options
 -------------------
 
