@@ -29,7 +29,7 @@ Game Launch Options
 
 Don't use these unless you have the exact same hardware.
 
-    -refresh 144 -novid -threads 8 -tickrate 128
+    -refresh 144 -novid -threads 8 -tickrate 128 -console
 
 - Refresh rate set to 144 for Asus VG24BQE
 - Novid to skip the intros
